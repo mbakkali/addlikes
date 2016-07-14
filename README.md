@@ -7,7 +7,7 @@ On utilise une plateforme d'échange de like avec un système de points. Des gen
 On like les publications pour gagner des points mais pour cette tache récurrente on utilise un bot à l'aide de
 de l'extension firefox iMacro. Ces macros vont réaliser plusieurs fois la même tache, vous pouvez laisser tourner la machine en background. Le débit est d'environ 1 like par minute selon la valeur que vous donner à gagner pour les autres utilisateurs quand ils likent votre publication. C'est valable pour des vues Youtube des partages facebook etc .. 
 
-** Ne marche qu'avec FIREFOX **
+**Ne marche qu'avec FIREFOX**
 
 ### Step 1
 Avoir un faux compte facebook de préférence pour liker pleins de publication inutiles 
@@ -21,12 +21,14 @@ mdp : victorgarand
 Il faut s'inscrire sur le site d'échange de like                    http://addmefast.com 
 je propose mon compte 
 
+
 mehdi.bakkali.944@gmail.com
 mdp : victorgarand
 
 *Pour placer la publication qu'on veut gonffler en likes aller sur l'onglet MySites et ajoutez l'URL de la publication 
 * Bien préciser que c'est un POST 
-* 
+
+
 ### Step 3
 Mise en place du bot 
 1) Télécharger l'extension iMacros pour firefox  http://imacros.net/download
